@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Im indian and loves football
 -->
+
+
+### Skills
+
+C, C++, DSA,
+
