@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **(gmail->skjskjskj333@gmail.com) or (twitter @shishirtj).**
+- 📫 How to reach me **(gmail->skjskjskj333@gmail.com) or (twitter->@shishirtj).**
 
 - ⚡ Fun fact **Fluent in Hindi and English**
 
