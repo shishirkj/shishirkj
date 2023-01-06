@@ -1,9 +1,9 @@
 
 [![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4742w8plt7vfo6buza9c9eo3mdlfkya9lowhom99vs&rid=giphy.gif&ct=g)]
-
 <h1 align="center">Hi 👋, I'm Shishir Kumar Jha</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="Coding" width="400" src=" https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishirkj&label=Profile%20views&color=0e75b6&style=flat" alt="shishirkj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shishirkj" alt="shishirkj" /></a> </p>
