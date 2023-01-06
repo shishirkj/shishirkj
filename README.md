@@ -1,9 +1,5 @@
 ### Hi there This is ABout me and my Work👋
 
-<!--
-**shishirkj/shishirkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...https://github.com/zulip/zulip
 - 🌱 I’m currently learning ...c/c++ and DSA
@@ -20,7 +16,6 @@ Here are some ideas to get you started:
 
 C, C++, DSA,
 
-![PNG IMG2](https://user-images.githubusercontent.com/90249481/210352892-c7724fe5-0a53-445a-864f-104adcdb0321.png)
 
 
 
