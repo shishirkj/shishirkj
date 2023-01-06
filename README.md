@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...nothing
+- 🔭 I’m currently working on ...https://github.com/zulip/zulip
 - 🌱 I’m currently learning ...c/c++ and DSA
 - 👯 I’m looking to collaborate on ..C/C++
 - 🤔 I’m looking for help with ...how to contribute on open source
