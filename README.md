@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Im indian and loves football
 - 🤓 Geeksforgeeks .....   https://auth.geeksforgeeks.org/user/skjskjskj333/practice
-- 😁 Leetcode ......   https://leetcode.com/shishir_kumar_jha/
+- 🤓 Leetcode ......   https://leetcode.com/shishir_kumar_jha/
 
 ### Skills
 
