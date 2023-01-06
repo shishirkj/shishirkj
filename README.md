@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Data Structure Algorithm and Web Development**
 
-- 👯 I’m looking to collaborate on [Any project](C/C++)
+- 👯 I’m looking to collaborate on Any project 
 
 - 🤝 I’m looking for help with [zulip and DSA](.https://github.com/zulip/zulip)
 
-- 👨‍💻 All of my projects are available at [Yet to make one.](Yet to make one.)
+- 👨‍💻 currently solving basic DSA questions
 
 - 💬 Ask me about **Anything**
 
