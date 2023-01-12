@@ -1,5 +1,5 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
-<h1 align="center">Hi 👋, I'm Shishir Kumar Jha </h1>
+<h1 align="center">Hi 👋, I'm Shishir Kumar Jha <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"></h1>
 <h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishirkj&label=Profile%20views&color=0e75b6&style=flat" alt="shishirkj" /> </p>
