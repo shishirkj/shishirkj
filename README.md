@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishirkj&show_icons=true&locale=en&layout=compact" alt="shishirkj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterstaa-rickstaa.vercel.app/api?username=shishirkj&show_icons=true&locale=en" alt="shishirkj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shishirkj&show_icons=true&locale=en" alt="shishirkj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shishirkj&" alt="shishirkj" /></p>
