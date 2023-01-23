@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on Any project 
 
-- 🤝 I’m looking for help with [zulip and DSA](.https://github.com/zulip/zulip)
+- 🤝 I’m looking for help with [zulip and DSA](.https://github.com/zulip/zulip
 
 - 👨‍💻 currently solving basic DSA questions
 
