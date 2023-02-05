@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Zulip](.https://github.com/zulip/zulip)
 
-- 🌱 I’m currently learning **Data Structure Algorithm and Web Development*
+- 🌱 I’m currently learning **Data Structure Algorithm and Web Development**
 
 - 👯 I’m looking to collaborate on Any project 
 
