@@ -13,7 +13,10 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **(gmail->skjskjskj333@gmail.com) or (twitter->@shishirtj).**
+- 📫 How to reach me **(
+gmail->skjskjskj333@gmail.com) 
+or
+(twitter->@shishirtj).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
