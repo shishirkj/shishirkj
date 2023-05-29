@@ -22,8 +22,7 @@ or
 <p align="left">
 <a href="https://twitter.com/shishirtj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shishirtj" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shishir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shishir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shishir_kumar_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shishir_kumar_jha" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/skjskjskj333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="skjskjskj333" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
