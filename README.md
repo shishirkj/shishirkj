@@ -7,9 +7,9 @@
 
 - 🔭 I’m looking to collaborate on Any project 
 
-- 🤝 I’m looking for help with [DSA](.https://github.com/zulip/zulip)
+- 🤝 I’m looking for help with [DSA](.https://github.com/zulip/zulip) adn web dev
 
-- 👨‍💻 currently solving basic DSA questions
+- 👨‍💻 currently solving basic DSA questions and frontend
 
 - 💬 Ask me about **Anything**
 
