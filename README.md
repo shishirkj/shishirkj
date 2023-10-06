@@ -17,9 +17,7 @@ I'm Shishir, a passionate coder with a love for DSA, web development, and open-s
 - Gmail: [Shishir](skjskjskj333@gmail.com)
 - LinkedIn: [Shishir](https://www.linkedin.com/in/shishir-kj-a2106525a/)
 
-## 👨‍💻 Fun Fact
-- Did you know? I can code with my eyes closed (just kidding!).
-  
+
 
 
 
