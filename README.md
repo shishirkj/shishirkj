@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hello, World! 👋
+# Hi 👋
 I'm Shishir, a passionate coder with a love for DSA, web development, and open-source projects.
 
 
