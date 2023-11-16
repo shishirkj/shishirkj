@@ -1,7 +1,5 @@
 <!-- Your Name -->
 # Hi 👋
-I'm Shishir, a passionate coder with a love for DSA, web development, and open-source projects.
-
 
 ## 🚀 What I Do
 - I build web applications and explore the world of code, one line at a time.
