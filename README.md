@@ -6,10 +6,6 @@
 - Passionate about solving complex problems and writing clean, efficient code.
 - Always excited to learn and collaborate on interesting projects.
 
-## 🔗 Let's Collaborate
-- Interested in collaborating on web development or open-source projects.
-- Let's connect and create something amazing together! 💡
-
 ## 📫 Get in Touch
 
 - Gmail: [Shishir](skjskjskj333@gmail.com)
